@@ -1,5 +1,3 @@
-# tech-writing-journey-2026
-
 
 # About Me 
 Technical Writer building modern documentation skills with the goal of becoming a Documentation Engineer. With five years of professional experience as a  writer specializing in video creation, I pair my eye for design to best simplify, format and ensure documentation is readable for both technical and non-technical teams.
