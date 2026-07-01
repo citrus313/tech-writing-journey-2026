@@ -2,7 +2,7 @@
 
 
 # About Me 
-I'm a jr. technical writer building modern documentation skills with the goal of becoming a Documentation Engineer. With five years of professional experience as a  writer specializing in video creation, I pair my eye for design to best simplify, format and ensure documentation is readable for both technical and non-technical teams.
+Technical Writer building modern documentation skills with the goal of becoming a Documentation Engineer. With five years of professional experience as a  writer specializing in video creation, I pair my eye for design to best simplify, format and ensure documentation is readable for both technical and non-technical teams.
 
 ## Skills I'm developing:
 - How to reorganize existing documentation
