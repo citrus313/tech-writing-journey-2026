@@ -1,7 +1,7 @@
 
 # July Contributions
 - Created my first pull request for the [Technical Writing Mentorship program](https://technicalwritingmp.com/)
-  -  Updated a broken link to lastest [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/style-guide-db/style-guide-db.html)
+  -  Updated a broken link to latest [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/style-guide-db/style-guide-db.html)
   
 
 
