@@ -6,4 +6,4 @@
 
 
 # Goals:
-- Create a Sample [tech writing style guide]([https://technicalwritingmp.com/docs/writing-style-guide](https://github.com/citrus313/learning-lab/blob/main/Writing/Sample-Style-Guide.md))
+- Create a Sample [tech writing style guide](https://github.com/citrus313/learning-lab/blob/main/Writing/Sample-Style-Guide.md)
